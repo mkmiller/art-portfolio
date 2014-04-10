@@ -1,0 +1,11 @@
+node_modules
+public
+.tmp
+.sass-cache
+app/bower_components
+heroku
+/views
+dist
+uploads/*
+public/*
+.DS_Store
